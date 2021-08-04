@@ -1,8 +1,8 @@
 {
-  "name": "demo-react-app",
+  "name": "demo-react-app-01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wjnter.github.io/demo-react-app",
+  "homepage": "https://wjnter.github.io/demo-react-app-01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
