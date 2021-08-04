@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demo-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/demo-react-app/static/js/main.33f1fbe9.chunk.js",
+    "main.js.map": "/demo-react-app/static/js/main.33f1fbe9.chunk.js.map",
+    "runtime-main.js": "/demo-react-app/static/js/runtime-main.3bc5241c.js",
+    "runtime-main.js.map": "/demo-react-app/static/js/runtime-main.3bc5241c.js.map",
+    "static/css/2.3804ad1f.chunk.css": "/demo-react-app/static/css/2.3804ad1f.chunk.css",
+    "static/js/2.149b72cc.chunk.js": "/demo-react-app/static/js/2.149b72cc.chunk.js",
+    "static/js/2.149b72cc.chunk.js.map": "/demo-react-app/static/js/2.149b72cc.chunk.js.map",
+    "static/js/3.c0eb13a1.chunk.js": "/demo-react-app/static/js/3.c0eb13a1.chunk.js",
+    "static/js/3.c0eb13a1.chunk.js.map": "/demo-react-app/static/js/3.c0eb13a1.chunk.js.map",
+    "index.html": "/demo-react-app/index.html",
+    "static/css/2.3804ad1f.chunk.css.map": "/demo-react-app/static/css/2.3804ad1f.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/demo-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.149b72cc.chunk.js.LICENSE.txt": "/demo-react-app/static/js/2.149b72cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc5241c.js",
+    "static/css/2.3804ad1f.chunk.css",
+    "static/js/2.149b72cc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.33f1fbe9.chunk.js"
+  ]
+}
