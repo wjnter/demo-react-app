@@ -2,7 +2,7 @@ import React from "react";
 import { Button, Form, Input, Row } from "antd";
 import { v4 as uuidv4 } from "uuid";
 
-import { Employee } from "../common/types";
+import { Employee } from "../../common/types";
 
 type Props = {
 	getEmployee: (employee: Employee) => void;
@@ -25,7 +25,7 @@ const AddEmployee = (props: Props) => {
 	};
 	return (
 		<>
-			<h2>Add New Employee</h2>
+			<h3 style={{ textAlign: "center" }}>Add New Employee</h3>
 			<Form
 				form={form}
 				layout="horizontal"
@@ -56,7 +56,7 @@ const AddEmployee = (props: Props) => {
 				</Form.Item>
 				<Form.Item wrapperCol={{ offset: 8, span: 16 }}>
 					<Row justify="end">
-						<Button type="primary" onClick={resetForm}>
+						<Button type="primary" danger onClick={resetForm}>
 							Clear
 						</Button>
 						<Button style={{ marginLeft: 10 }} htmlType="submit" type="primary">
